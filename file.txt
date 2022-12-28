@@ -2,5 +2,5 @@ Hello, world!
 
 My name is Christian, I'm giving a short introduction into `git` and its CLI, for CodeYourFuture.
 
-
+Add some other stuff here
 
